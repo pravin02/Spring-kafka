@@ -1,0 +1,1 @@
+Spring kakfa application to produce and consume messages from durable stream
