@@ -1,6 +1,6 @@
 spring:
   application:
-    name: kafka-producer
+    name: kafka-consumer
 
 ---
 spring:
