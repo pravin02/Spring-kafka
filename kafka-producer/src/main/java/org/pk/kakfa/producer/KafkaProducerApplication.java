@@ -1,4 +1,4 @@
-package org.pk.kakfa.kafkaproducer;
+package org.pk.kakfa.producer;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
